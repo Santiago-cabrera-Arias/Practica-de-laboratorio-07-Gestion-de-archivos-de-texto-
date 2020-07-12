@@ -82,7 +82,9 @@ public class ControladorArchivos {
 
         String[] abecedarioEncriptado = {"~", "!", "@", "#", "$", "5", "6", "%", "^", "&", "*",
             "8", "|", "]", "`", "c", "a", "r", ">", "<", "?", "/", ".", "_", "-", "h"};
-
+        for (int i = 0; i < 26; i++) {
+            texto.put(abecedario[i], abecedarioEncriptado[i]);
+        }
     }
 
     public void archivoTexto(String rutas, String nombre, String texto) {
