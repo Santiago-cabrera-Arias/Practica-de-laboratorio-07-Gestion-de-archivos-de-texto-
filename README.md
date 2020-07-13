@@ -58,3 +58,6 @@ RECOMENDACIONES:
 Firma Integrantes:
 
 ![alt text](https://github.com/Santiago-cabrera-Arias/Practica-de-laboratorio-07-Gestion-de-archivos-de-texto-/blob/master/imagenes%20a%20GitHub/firma.jpg)
+
+
+![alt text](https://github.com/Santiago-cabrera-Arias/Practica-de-laboratorio-07-Gestion-de-archivos-de-texto-/blob/master/imagenes%20a%20GitHub/WhatsApp%20Image%202020-07-12%20at%206.54.25%20PM.jpeg)
